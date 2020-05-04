@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/macos,windows
 # Edit at https://www.gitignore.io/?templates=macos,windows
-
+node_modules
 ### macOS ###
 # General
 .DS_Store
